@@ -26,14 +26,21 @@
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
 
----
+## GitHub Stats
 
-## Repo Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanR1o&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SanR1o&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph" align="top" />
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=SanR1o&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" align="top" />
-
-<img src="https://streak-stats.demolab.com?user=SanR1o&theme=tokyonight&hide_border=true" alt="streak stats" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SanR1o&theme=tokyonight" alt="Profile Summary" />
+</p>
+<!--
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SanR1o&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanR1o&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p> 
+-->
 
 ---
 
